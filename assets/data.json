@@ -1,0 +1,88 @@
+{
+    "item": [
+        {
+            "labelle": "السيارة الخفيفة",
+            "accidents": "1145",
+            "tues": "220",
+            "blesses": "1645"
+        },
+        {
+            "labelle": "الدراجة النارية",
+            "accidents": "868",
+            "tues": "151",
+            "blesses": "1016"
+        },
+        {
+            "labelle": "المترجل",
+            "accidents": "650",
+            "tues": "115",
+            "blesses": "646"
+        },
+        {
+            "labelle": "الشاحنة الخفيفة",
+            "accidents": "485",
+            "tues": "132",
+            "blesses": "733"
+        },
+        {
+            "labelle": "سيارة أجرة",
+            "accidents": "197",
+            "tues": "58",
+            "blesses": "341"
+        },
+        {
+            "labelle": "إنقلاب وسيلة",
+            "accidents": "147",
+            "tues": "55",
+            "blesses": "275"
+        },
+        {
+            "labelle": "الشاحنة الثقيلة",
+            "accidents": "87",
+            "tues": "61",
+            "blesses": "140"
+        },
+        {
+            "labelle": "الدراجة العادية",
+            "accidents": "63",
+            "tues": "8",
+            "blesses": "62"
+        },
+        {
+            "labelle": "إصطدام بحاجز",
+            "accidents": "60",
+            "tues": "38",
+            "blesses": "100"
+        },
+        {
+            "labelle": "حافلة النقل",
+            "accidents": "39",
+            "tues": "14",
+            "blesses": "91"
+        },
+        {
+            "labelle": "الجرار",
+            "accidents": "20",
+            "tues": "8",
+            "blesses": "26"
+        },
+        {
+            "labelle": "سقوط راكب",
+            "accidents": "18",
+            "tues": "3",
+            "blesses": "22"
+        },
+        {
+            "labelle": "آلة الأشغال",
+            "accidents": "4",
+            "tues": "1",
+            "blesses": "10"
+        },
+        {
+            "labelle": "القطار",
+            "accidents": "2",
+            "tues": "1",
+            "blesses": "2"
+        }
+    ]
+}

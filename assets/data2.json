@@ -1,0 +1,40 @@
+{
+    "item": [
+        {
+            "labelle": "جانفي",
+            "accidents": "402",
+            "tues": "84",
+            "blesses": "508"
+        },
+        {
+            "labelle": "فيفري",
+            "accidents": "394",
+            "tues": "93",
+            "blesses": "591"
+        },
+        {
+            "labelle": "مارس",
+            "accidents": "372",
+            "tues": "80",
+            "blesses": "482"
+        },
+        {
+            "labelle": "افريل",
+            "accidents": "401",
+            "tues": "98",
+            "blesses": "604"
+        },
+        {
+            "labelle": "ماي",
+            "accidents": "368",
+            "tues": "83",
+            "blesses": "486"
+        },
+        {
+            "labelle": "جوان",
+            "accidents": "36",
+            "tues": "8",
+            "blesses": "62"
+        }
+    ]
+}
